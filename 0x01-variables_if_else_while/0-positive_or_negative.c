@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * The program will assign a random number to the variable n each time it * is executed.
+ * main - The program will assign a random number to the variable n each time * it is executed.
  * Return : 0 on success
  */
 int main(void)
