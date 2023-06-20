@@ -3,7 +3,6 @@
 #include <time.h>
 /**
  * main - Starting point
- *
  * Return: 0 success 
  */
 int main(void)
