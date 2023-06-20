@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - The program will assign a random number to the variable n each time * it is executed.
- * Return : 0 on success
+ * main - Check if a random number is positive,negative or zero.
+ * Return: 0 on success
  */
 int main(void)
 {
