@@ -3,7 +3,7 @@
 /**
  * print_sign - Prints the sign of a number
  * @n: The number to be checked
- * Retun: 1 - for positive number -1 - for negative number 0 - Anythin else
+ * Return: 1 - for positive number, -1 - for negative number, 0 - Anything else
  */
 
 int print_sign(int n)
