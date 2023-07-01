@@ -1,1 +1,1 @@
-Programming in C_Hello World
+C - More pointers, arrays and strings
